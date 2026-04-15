@@ -1,7 +1,7 @@
 ![](https://github.com/SIS-data-analysis/.github/blob/main/profile/sislogo.png)
 
 # SIS-750: Data Analysis  
-### Spring 2025
+### Spring 2026
 
 **Prof. Austin Hart (ahart@american.edu)**  
 Office hours:	M 2:00-4:00pm and by appt
